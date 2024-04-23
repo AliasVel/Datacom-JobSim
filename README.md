@@ -1,4 +1,4 @@
-<h1>So you want to be a SOC Analyst? - SOC homelab</h1>
+<h1>DATACOM Job Simulation</h1>
 
 <h2>Description</h2>
 A job simulation by Datacom hosted on www.forage.com.
